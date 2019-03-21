@@ -1,1 +1,5 @@
 script de demarrage ici
+pour demarrer un ordinateur il faut fare commme suit :
+1 - Appuyer sur le bouton avec le symbole decrit dans limage ci-dessous
+2 - patienter que la page demandant le login et le mot de passe saffiche
+3 - tapez le mot de passer et commencer par utilser votre ordinateur
