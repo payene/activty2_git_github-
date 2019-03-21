@@ -2,3 +2,7 @@ script darret
 En cas de plantage de la machine appuyer longuement sur la meme touche 
 qui a servi a allumer l'ordinateur et maintenez la toutche enfoncée 
 jusqua ce que l'ordinateur s'arrete
+
+
+NB cette facon de faire est à eviter au maximum. Ne l'utilisez que en 
+dernier recours.
